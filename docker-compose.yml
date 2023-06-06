@@ -1,0 +1,13 @@
+version: "3"
+services:
+    whatsapp-chatgpt:
+        image: ghcr.io/askrella/whatsapp-chatgpt:master
+        environment:
+            OPENAI_API_KEY: "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"
+            #OPENAI_GPT_MODEL: ""
+            #PREFIX_ENABLED: ""
+            SERPAPI_API_KEY: "xxxxxxxxx"
+        volumes:
+            - session-data:/app/session
+volumes:
+    session-data:
