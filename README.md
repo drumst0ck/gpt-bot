@@ -32,5 +32,5 @@ NOTA: No podemos garantizar que no serás bloqueado al utilizar este método, au
 
 ## Bibliotecas utilizadas
 -   https://github.com/transitive-bullshit/chatgpt-api
--   [https://github.com/pedroslopez/whatsapp-web.js](https://github.com/JoseSanchez54/whatsapp-web.js)
+-   [https://github.com/JoseSanchez54/whatsapp-web.js](https://github.com/JoseSanchez54/whatsapp-web.js)
 -   https://github.com/askrella/speech-rest-api
