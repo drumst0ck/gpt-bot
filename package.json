@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs",
 	"main": "src/index.ts",
-	"author": "Askrella Software Agency UG (haftungsbeschränkt)",
+	"author": "Askrella Software Agency UG (JoseSanchez54 rebuild)",
 	"scripts": {
 		"start": "npx vite-node src/index.ts",
 		"prettier": "prettier --write ."
