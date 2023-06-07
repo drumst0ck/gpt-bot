@@ -1,4 +1,4 @@
-import { Message } from "whatsapp-web.js";
+import { Message } from "drumstock.whatsapp-web.js";
 import BrowserAgentProvider from "../providers/browser-agent";
 import * as cli from "../cli/ui";
 

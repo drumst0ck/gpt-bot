@@ -1,4 +1,4 @@
-import { Message } from "whatsapp-web.js";
+import { Message } from "drumstock.whatsapp-web.js";
 import { startsWithIgnoreCase } from "../utils";
 
 // Config & Constants

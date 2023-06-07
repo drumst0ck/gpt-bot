@@ -1,4 +1,4 @@
-import { MessageMedia } from "whatsapp-web.js";
+import { MessageMedia } from "drumstock.whatsapp-web.js";
 import { openai } from "../providers/openai";
 import { aiConfig } from "../handlers/ai-config";
 import { CreateImageRequestSizeEnum } from "openai";

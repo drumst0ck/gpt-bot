@@ -1,4 +1,4 @@
-import { Message } from "whatsapp-web.js";
+import { Message } from "drumstock.whatsapp-web.js";
 
 export interface ICommandExecution {
 	(message: Message, value?: string): void;

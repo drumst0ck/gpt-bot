@@ -2,7 +2,7 @@ import os from "os";
 import fs from "fs";
 import path from "path";
 import { randomUUID } from "crypto";
-import { Message, MessageMedia } from "whatsapp-web.js";
+import { Message, MessageMedia } from "drumstock.whatsapp-web.js";
 import { chatgpt } from "../providers/openai";
 import * as cli from "../cli/ui";
 import config from "../config";

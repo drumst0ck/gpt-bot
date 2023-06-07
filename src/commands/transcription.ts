@@ -1,5 +1,5 @@
 import { ICommandModule, ICommandDefinition, ICommandsMap } from "../types/commands";
-import { Message } from "whatsapp-web.js";
+import { Message } from "drumstock.whatsapp-web.js";
 import { config } from "../config";
 import { TranscriptionMode } from "../types/transcription-mode";
 
