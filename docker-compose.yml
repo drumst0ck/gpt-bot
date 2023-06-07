@@ -1,12 +1,13 @@
 version: "3"
 services:
     whatsapp-chatgpt:
-        image: ghcr.io/askrella/whatsapp-chatgpt:master
+        image: drumstock/bot-gpt
         environment:
-            OPENAI_API_KEY: "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"
+            OPENAI_API_KEY: "Sk_......"
             #OPENAI_GPT_MODEL: ""
             #PREFIX_ENABLED: ""
             SERPAPI_API_KEY: "xxxxxxxxx"
+            MAX_MODEL_TOKENS: 2000
         volumes:
             - session-data:/app/session
 volumes:
