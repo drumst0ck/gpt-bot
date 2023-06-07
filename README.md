@@ -7,12 +7,12 @@ Puedes interactuar con el bot enviando mensajes de voz y el bot los transcribir�
 ## Whatsapp ChatGPT
 
 ## Requisitos
-Node.js (versión 18 o superior)
-Una versión reciente de npm
-Una clave de API de OpenAI
-Una cuenta de WhatsApp
-Documentación
-En la documentación encontrarás información detallada sobre cómo instalar, configurar y utilizar este bot.
+- Node.js (versión 18 o superior)
+- Una versión reciente de npm
+- Una clave de API de OpenAI
+- Una cuenta de WhatsApp
+- Documentación
+(En la documentación encontrarás información detallada sobre cómo instalar, configurar y utilizar este bot.)
 
 ## ➡️ Documentación
 
