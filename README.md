@@ -15,6 +15,11 @@ Puedes interactuar con el bot enviando mensajes de voz y el bot los transcribir�
 (En la documentación encontrarás información detallada sobre cómo instalar, configurar y utilizar este bot.)
 
 ## ➡️ Documentación
+Haz una copia de .env-example a .env sustituyendo la variable OPENAI_API_KEY por tu clave secreta de OpenAI
+```
+npm start
+```
+
 
 ## Descargo de responsabilidad
 Las operaciones realizadas por este bot no son gratuitas. Se te cobrará por cada solicitud que realices mediante OpenAI.
