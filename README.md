@@ -19,7 +19,7 @@ Haz una copia de .env-example a .env sustituyendo la variable OPENAI_API_KEY por
 ```
 npm start
 ```
-
+Una vez ejecutado, escaneamos el codigo QR generado en la consola para loguearnos en WhatsApp
 
 ## Descargo de responsabilidad
 Las operaciones realizadas por este bot no son gratuitas. Se te cobrará por cada solicitud que realices mediante OpenAI.
