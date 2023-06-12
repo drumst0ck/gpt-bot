@@ -11,7 +11,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@clack/prompts": "^0.4.3",
-		"aws-sdk": "^2.1332.0",
+		"aws-sdk": "^2.1395.0",
 		"chatgpt-official": "^1.1.5",
 		"dotenv": "^16.0.3",
 		"drumstock.whatsapp-web.js": "^1.21.0",
